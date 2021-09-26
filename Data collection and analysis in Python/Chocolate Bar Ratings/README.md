@@ -3,11 +3,12 @@ Chocolate is one of the most popular candies in the world. Each year, residents 
 
 ## Flavors of Cacao Rating System:
 
-5= Elite (Transcending beyond the ordinary limits)
-4= Premium (Superior flavor development, character and style)
-3= Satisfactory(3.0) to praiseworthy(3.75) (well made with special qualities)
-2= Disappointing (Passable but contains at least one significant flaw)
-1= Unpleasant (mostly unpalatable)
+* 5 Elite (Transcending beyond the ordinary limits)
+* 4 Premium (Superior flavor development, character and style)
+* 3 Satisfactory(3.0) to praiseworthy(3.75) (well made with special qualities)
+* 2 Disappointing (Passable but contains at least one significant flaw)
+* 1 Unpleasant (mostly unpalatable)
+
 Each chocolate is evaluated from a combination of both objective qualities and subjective interpretation. A rating here only represents an experience with one bar from one batch. Batch numbers, vintages and review dates are included in the database when known.
 
 The database is narrowly focused on plain dark chocolate with an aim of appreciating the flavors of the cacao when made into chocolate. The ratings do not reflect health benefits, social missions, or organic status.
