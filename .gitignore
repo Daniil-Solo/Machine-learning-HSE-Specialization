@@ -3,3 +3,4 @@ diving_venv
 venv
 __pycache__
 Docs
+.ipynb_checkpoints
