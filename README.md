@@ -18,3 +18,4 @@
 ### 2.2. Получаемые знания и навыки
 
 ### 2.3. Домашние задания и проекты
+[1. Разведочный анализ данных для рейтинга шоколадных батончиков](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Chocolate%20Bar%20Ratings)
