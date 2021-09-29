@@ -1,6 +1,6 @@
 ## Задача
 
-Написать парсер для сбора статаей с веб-сайта 
+Написать парсер для сбора историй с сайта https://zadolba.li/
 
 ## Описание
 
@@ -10,9 +10,11 @@
 * категорию статьи, 
 * дату выхода статьи в формате даты
 
-## Ссылка на сайт
-
-https://zadolba.li/
+## Состав файлов
+* [Ноутбук с изучением сайта и созданием парсера](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/blob/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles/Parsing.ipynb)
+* [Код класса для парсинга](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/blob/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles/Parser.py)
+* [Пример полученных данных](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/blob/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles/article_data.csv)
+* [Файл для запуска парсера](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/blob/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles/main.py)
 
 ## Запуск парсера
 
