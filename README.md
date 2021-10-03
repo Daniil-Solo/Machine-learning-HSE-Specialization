@@ -19,9 +19,9 @@
 * requests, bs4, fake_user_agent
 * pandas, numpy, matplotlib
 ### 2.3. Домашние задания и проекты
-[1. Разведочный анализ данных для рейтинга шоколадных батончиков](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Chocolate%20Bar%20Ratings)
-
-[2. Парсер для сбора историй с сайта zadolba.li](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles)
+* [1. Разведочный анализ данных для рейтинга шоколадных батончиков](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Chocolate%20Bar%20Ratings)
+* [2. Парсер для сбора историй с сайта zadolba.li](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles)
+* [3. Практика визуализации](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Master%20of%20visualization)
 
 ## **3. Основы машинного обучения** <a name="fundamentals_ml"></a>
 
@@ -31,4 +31,5 @@
 * Теория машинного обучения
 * pandas, numpy, sklearn
 ### 3.3. Домашние задания и проекты
-[1. kNN для классификации вин](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/kNN%20wine-dataset)
+* [1. kNN для классификации вин](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/kNN%20wine-dataset)
+* [2. Linear Regression для предсказания веса рыбы](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/LinReg%20fish-market)
