@@ -33,3 +33,4 @@
 ### 3.3. Домашние задания и проекты
 * [1. kNN для классификации вин](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/kNN%20wine-dataset)
 * [2. Linear Regression для предсказания веса рыбы](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/LinReg%20fish-market)
+* [3. Logistic Regression для прогноза заболевания диабетом для индейцев](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/LogReg%20Indians%20Diabetes)
