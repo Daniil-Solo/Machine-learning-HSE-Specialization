@@ -4,8 +4,13 @@
 * Знакомство с метриками качества классификации
 * Предсказание заболевания диабетом
 
+## Структура 
+* [1. Разведочный анализ данных, предобработка](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/blob/main/Fundamentals%20of%20Machine%20Learning/LogReg%20Indians%20Diabetes/EDA.ipynb)
+* [2. Моделирование и оценка качества](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/blob/main/Fundamentals%20of%20Machine%20Learning/LogReg%20Indians%20Diabetes/LogReg.ipynb)
+
 ## О наборе данных
 [Ссылка на датасет](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv)
+
 Набор данных о диабете индейцев пима включает прогнозирование возникновения диабета в течение 5 лет у индейцев пима с учетом медицинских данных.
 
 ## О признаках
