@@ -17,8 +17,11 @@
 ### 2.2. Получаемые знания и навыки
 * Теория вероятностей, Математическая статистика
 * requests, bs4, fake_user_agent
-* pandas, numpy, matplotlib
+* pandas, numpy, matplotlib, scipy
 ### 2.3. Домашние задания и проекты
+#### 2.3.1. Официальные задания курса
+* [1. Распределения](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Distributions)
+#### 2.3.2. Дополнительные задания
 * [1. Разведочный анализ данных для рейтинга шоколадных батончиков](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Chocolate%20Bar%20Ratings)
 * [2. Парсер для сбора историй с сайта zadolba.li](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles)
 * [3. Практика визуализации](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Master%20of%20visualization)
@@ -31,6 +34,8 @@
 * Теория машинного обучения
 * pandas, numpy, sklearn
 ### 3.3. Домашние задания и проекты
+#### 3.3.1. Официальные задания курса
+#### 3.3.2. Дополнительные задания
 * [1. kNN для классификации вин](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/kNN%20wine-dataset)
 * [2. Linear Regression для предсказания веса рыбы](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/LinReg%20fish-market)
 * [3. Logistic Regression для прогноза заболевания диабетом для индейцев](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Fundamentals%20of%20Machine%20Learning/LogReg%20Indians%20Diabetes)
