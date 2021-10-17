@@ -20,12 +20,13 @@
 * pandas, numpy, matplotlib, scipy
 ### 2.3. Домашние задания и проекты
 #### 2.3.1. Официальные задания курса
-* [1. Распределения ](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Distributions) 
+* [1. Распределения](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Distributions) 
 * [2. Аналитика цен на акции](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Price%20analytics)
+* [3. Парсинг книг](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20books)
 #### 2.3.2. Дополнительные задания
 * [1. Разведочный анализ данных для рейтинга шоколадных батончиков ](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Chocolate%20Bar%20Ratings) 
 * [2. Парсер для сбора историй с сайта zadolba.li](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles) 
-* [3. Практика визуализации ](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Master%20of%20visualization)
+* [3. Практика визуализации](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Master%20of%20visualization)
 
 ## **3. Основы машинного обучения** <a name="fundamentals_ml"></a>
 
