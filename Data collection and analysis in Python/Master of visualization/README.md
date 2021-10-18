@@ -9,3 +9,6 @@
 
 ## Seaborn
 * [1. Визуализация данных из датасета Титаник с помощью Seaborn](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/blob/main/Data%20collection%20and%20analysis%20in%20Python/Master%20of%20visualization/Seaborn%20Titanic.ipynb)
+
+## Plotly
+* [2. Пересечение математических функций с помощью Plotly](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/blob/main/Data%20collection%20and%20analysis%20in%20Python/Master%20of%20visualization/Plotly%20Math%20functions.ipynb)
