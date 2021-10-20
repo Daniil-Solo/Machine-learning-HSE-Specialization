@@ -23,6 +23,7 @@
 * [1. Распределения](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Distributions) 
 * [2. Аналитика цен на акции](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Price%20analytics)
 * [3. Парсинг книг](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20books)
+* [4. Аналитика логов магазина Walmart](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Walmart%20logs)
 #### 2.3.2. Дополнительные задания
 * [1. Разведочный анализ данных для рейтинга шоколадных батончиков ](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Chocolate%20Bar%20Ratings) 
 * [2. Парсер для сбора историй с сайта zadolba.li](https://github.com/Daniil-Solo/Machine-learning-HSE-Specialization/tree/main/Data%20collection%20and%20analysis%20in%20Python/Parsing%20of%20articles) 
